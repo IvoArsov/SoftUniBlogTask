@@ -14,6 +14,9 @@
     text-align: center;
     position: relative;
 }
+.blog-title {
+    width: 130px;
+}
 form{
     margin: 0 auto;
     text-align: center;
